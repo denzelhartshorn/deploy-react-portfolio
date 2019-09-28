@@ -1,6 +1,6 @@
 {
   "name": "denzel-react-app",
-  "homepage": "https://denzelhartshorn.github.com/React-Portfolio",
+  "homepage": "https://denzelhartshorn.github.com/deploy-react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "react-portfolio -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
