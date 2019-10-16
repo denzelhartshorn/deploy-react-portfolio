@@ -18,7 +18,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "A self-motivated, creative and dedicated web developer with strong teamwork, collaboration, and communication skills.  Quick to learn new tools and systems with the ability to thrive in independent or collaborative work environments.  Strong qualifications in problem-solving, product management, sales, marketing, communication and leadership.  Currently building projects with the MERN stack.",
+    "Semi-pro soccer player turned web developer. Self-motivated, creative, and dedicated, with strong teamwork and communication skills. Quick to learn new systems with the ability to thrive in independent and collaborative work environments. Strong qualifications in problem-solving, product management, sales, marketing, communication, and leadership. Currently building projects with the MERN stack using the following tools.",
   address: "Palo Alto, California",
   website: "https://github.com/denzelhartshorn",
   education: [
