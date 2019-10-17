@@ -35,27 +35,28 @@ let resumeData = {
   work: [
     {
       CompanyName: "Meal Planner",
-      specialization: "Software Engineer (Front End & Back End)",
+      specialization:
+        "MERN Stack (MongoDB, Express, React, Node), Redux, Bcrypt, Passport, JSON web tokens",
       MonthOfLeaving: "August",
       YearOfLeaving: "2019",
       Achievements:
-        "Architected, developed and fully deployed a full-stack app that has authentication.  This app will take user input, create a profile, and then give meal suggestions based on users input."
+        "A React App I built as part of a team.  A one stop shop for meal planning!  Users create a profile and enter in lifestyle & health information.  We then calculate their requirements and suggest meal options"
     },
     {
-      CompanyName: "CryptoBob",
-      specialization: "Software Engineer (Front End & Back End)",
+      CompanyName: "JavaScript 30 Day Challenge",
+      specialization: "Arrays, Variables, Clock, Games, Tips, Efficiency.",
       MonthOfLeaving: "July",
       YearOfLeaving: "2019",
       Achievements:
-        "Architected, developed a full-stack app that tracks cryptoCurrency fluxuations as well as providing real time news"
+        "A 30-Day challenge with a different problem each day that covered a wide range of JavaScript functionality."
     },
     {
-      CompanyName: "Berkely Bus App",
-      specialization: "Software Engineer (Front End & Back End)",
-      MonthOfLeaving: "June",
+      CompanyName: "Clicky-Game",
+      specialization: "React, Node, JavaScript, HTML, CSS",
+      MonthOfLeaving: "September",
       YearOfLeaving: "2019",
       Achievements:
-        "Architected, developed a full-stack app that will help you find your destination, fastest bus route and nearest bus stop in Berkeley, CA."
+        "This is my first project with React, a game to test your memory - scroll down to my projects to see more!"
     }
   ],
   skillsDescription: "Your skills here",
@@ -96,15 +97,16 @@ let resumeData = {
         "https://camo.githubusercontent.com/9bbc9c35028ec68d8418b08ead09d6943a6bd5dc/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f69696f4b426d2e706e67"
     },
     {
-      name: "CryptoBob",
+      name: "JavaScript",
       description: "mobileapp",
       imgurl:
         "https://camo.githubusercontent.com/dd1affe2776d5dc054629e1eac5fa67264dc20de/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f696a6270466b2e706e67"
     },
     {
-      name: "Berkely Bus App",
+      name: "Clicky Game",
       description: "mobileapp",
-      imgurl: "images/bba-screenshot.png"
+      imgurl: "images/bba-screenshot.png",
+      url: "https://reactmemorygame-denzel.herokuapp.com"
     },
     {
       name: "E-Commerce site using MERN",
