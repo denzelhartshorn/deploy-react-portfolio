@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "",
   name: "Denzel Hartshorn",
-  role: "Full Stack Developer (Front & Back End)",
+  role: "Full Stack Developer (MERN Stack)",
   linkedinId: "https://www.linkedin.com/in/denzel-hartshorn-147302106/",
   // skypeid: "",
   roleDescription: "",
