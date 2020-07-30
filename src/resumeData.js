@@ -59,7 +59,7 @@ let resumeData = {
         "This is my first project with React, a game to test your memory - scroll down to my projects to see more!"
     }
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "",
   skills: [
     {
       skillname: "HTML5"
@@ -97,10 +97,10 @@ let resumeData = {
         "https://camo.githubusercontent.com/9bbc9c35028ec68d8418b08ead09d6943a6bd5dc/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f69696f4b426d2e706e67"
     },
     {
-      name: "JavaScript",
+      name: "Online Store- React Native",
       description: "mobileapp",
       imgurl:
-        "https://camo.githubusercontent.com/dd1affe2776d5dc054629e1eac5fa67264dc20de/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f696a6270466b2e706e67"
+        "eac5fa67264dc20de/https://github.com/denzelhartshorn/OnlineStore-ReactNative"
     },
     {
       name: "Clicky Game",
