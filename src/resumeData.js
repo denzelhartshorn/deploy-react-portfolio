@@ -62,31 +62,34 @@ let resumeData = {
   skillsDescription: "",
   skills: [
     {
-      skillname: "HTML5"
+      skillname: "CSS"
     },
     {
-      skillname: "CSS"
+      skillname: "Express.js"
+    },
+    {
+      skillname: "Github & Gitlab"
+    },
+    {
+      skillname: "HTML"
     },
     {
       skillname: "JavaScript"
     },
     {
-      skillname: "MongoDB-Mongoose"
+      skillname: "Mongo DB & Mongoose"
     },
     {
-      skillname: "Express"
+      skillname: "MYSQL & SQL"
     },
     {
-      skillname: "Reactjs"
+      skillname: "React"
     },
     {
-      skillname: "Nodejs"
+      skillname: "React Native"
     },
     {
-      skillname: "GitHub-Lab"
-    },
-    {
-      skillname: "MYSQL-SQL"
+      skillname: "Python"
     }
   ],
   portfolio: [
@@ -99,8 +102,7 @@ let resumeData = {
     {
       name: "Online Store- React Native",
       description: "mobileapp",
-      imgurl:
-        "eac5fa67264dc20de/https://github.com/denzelhartshorn/OnlineStore-ReactNative"
+      imgurl: "https://github.com/denzelhartshorn/OnlineStore-ReactNative"
     },
     {
       name: "Clicky Game",
@@ -109,9 +111,9 @@ let resumeData = {
       url: "https://reactmemorygame-denzel.herokuapp.com"
     },
     {
-      name: "E-Commerce site using MERN",
+      name: "Cryptocurrency tracking & analyzing app 'cryptoBob'",
       description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg"
+      imgurl: "https://github.com/denzelhartshorn/CryptoBob"
     }
   ]
 };
