@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "",
   name: "Denzel Hartshorn",
-  role: "Full Stack Developer (Front & Back End)",
+  role: "Full Stack Developer (MERN Stack)",
   linkedinId: "https://www.linkedin.com/in/denzel-hartshorn-147302106/",
   // skypeid: "",
   roleDescription: "",
@@ -18,7 +18,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "A self-motivated, creative and dedicated web developer with strong teamwork, collaboration, and communication skills.  Quick to learn new tools and systems with the ability to thrive in independent or collaborative work environments.  Strong qualifications in problem-solving, product management, sales, marketing, communication and leadership.  Currently building projects with the MERN stack.",
+    "Semi-pro soccer player turned web developer. Self-motivated, creative, and dedicated, with strong teamwork and communication skills. Quick to learn new systems with the ability to thrive in independent and collaborative work environments. Strong qualifications in problem-solving, product management, sales, marketing, communication, and leadership. Currently building projects with the MERN stack using the following tools.",
   address: "Palo Alto, California",
   website: "https://github.com/denzelhartshorn",
   education: [
@@ -35,57 +35,61 @@ let resumeData = {
   work: [
     {
       CompanyName: "Meal Planner",
-      specialization: "Software Engineer (Front End & Back End)",
+      specialization:
+        "MERN Stack (MongoDB, Express, React, Node), Redux, Bcrypt, Passport, JSON web tokens",
       MonthOfLeaving: "August",
       YearOfLeaving: "2019",
       Achievements:
-        "Architected, developed and fully deployed a full-stack app that has authentication.  This app will take user input, create a profile, and then give meal suggestions based on users input."
+        "A React App I built as part of a team.  A one stop shop for meal planning!  Users create a profile and enter in lifestyle & health information.  We then calculate their requirements and suggest meal options"
     },
     {
-      CompanyName: "CryptoBob",
-      specialization: "Software Engineer (Front End & Back End)",
+      CompanyName: "JavaScript 30 Day Challenge",
+      specialization: "Arrays, Variables, Clock, Games, Tips, Efficiency.",
       MonthOfLeaving: "July",
       YearOfLeaving: "2019",
       Achievements:
-        "Architected, developed a full-stack app that tracks cryptoCurrency fluxuations as well as providing real time news"
+        "A 30-Day challenge with a different problem each day that covered a wide range of JavaScript functionality."
     },
     {
-      CompanyName: "Berkely Bus App",
-      specialization: "Software Engineer (Front End & Back End)",
-      MonthOfLeaving: "June",
+      CompanyName: "Clicky-Game",
+      specialization: "React, Node, JavaScript, HTML, CSS",
+      MonthOfLeaving: "September",
       YearOfLeaving: "2019",
       Achievements:
-        "Architected, developed a full-stack app that will help you find your destination, fastest bus route and nearest bus stop in Berkeley, CA."
+        "This is my first project with React, a game to test your memory - scroll down to my projects to see more!"
     }
   ],
-  skillsDescription: "Your skills here",
+  skillsDescription: "",
   skills: [
     {
-      skillname: "HTML5"
+      skillname: "CSS"
     },
     {
-      skillname: "CSS"
+      skillname: "Express.js"
+    },
+    {
+      skillname: "Github & Gitlab"
+    },
+    {
+      skillname: "HTML"
     },
     {
       skillname: "JavaScript"
     },
     {
-      skillname: "MongoDB-Mongoose"
+      skillname: "Mongo DB & Mongoose"
     },
     {
-      skillname: "Express"
+      skillname: "MYSQL & SQL"
     },
     {
-      skillname: "Reactjs"
+      skillname: "React"
     },
     {
-      skillname: "Nodejs"
+      skillname: "React Native"
     },
     {
-      skillname: "GitHub-Lab"
-    },
-    {
-      skillname: "MYSQL-SQL"
+      skillname: "Python"
     }
   ],
   portfolio: [
@@ -96,20 +100,20 @@ let resumeData = {
         "https://camo.githubusercontent.com/9bbc9c35028ec68d8418b08ead09d6943a6bd5dc/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f69696f4b426d2e706e67"
     },
     {
-      name: "CryptoBob",
+      name: "Online Store- React Native",
       description: "mobileapp",
-      imgurl:
-        "https://camo.githubusercontent.com/dd1affe2776d5dc054629e1eac5fa67264dc20de/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f696a6270466b2e706e67"
+      imgurl: "https://github.com/denzelhartshorn/OnlineStore-ReactNative"
     },
     {
-      name: "Berkely Bus App",
+      name: "Clicky Game",
       description: "mobileapp",
-      imgurl: "images/bba-screenshot.png"
+      imgurl: "images/bba-screenshot.png",
+      url: "https://reactmemorygame-denzel.herokuapp.com"
     },
     {
-      name: "E-Commerce site using MERN",
+      name: "Cryptocurrency tracking & analyzing app 'cryptoBob'",
       description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg"
+      imgurl: "https://github.com/denzelhartshorn/CryptoBob"
     }
   ]
 };
