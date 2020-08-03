@@ -5,15 +5,15 @@
   "private": true,
   "dependencies": {
     "browserlist": "^1.0.1",
-    "browserslist": "^4.7.0",
-    "caniuse-lite": "^1.0.30000998",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
+    "browserslist": "^4.13.0",
+    "caniuse-lite": "^1.0.30001109",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-scripts": "2.1.1"
   },
   "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
+    "node": "12.x",
+    "npm": "6.x"
   },
   "scripts": {
     "start": "react-scripts start",
