@@ -368,45 +368,45 @@ ul#nav li.current a {
   -moz-animation: css 2s ease;
   -webkit-animation: css 2s ease;
 }
-.html5 {
+.express.js {
   width: 80%;
-  -moz-animation: html5 2s ease;
-  -webkit-animation: html5 2s ease;
+  -moz-animation: express.js 2s ease;
+  -webkit-animation: .express.js 2s ease;
+}
+.github-lab {
+  width: 75%;
+  -moz-animation: github-lab 2s ease;
+  -webkit-animation: github-lab 2s ease;
+}
+.html {
+  width: 60%;
+  -moz-animation: html 2s ease;
+  -webkit-animation: html 2s ease;
 }
 .javascript {
-  width: 75%;
+  width: 70%;
   -moz-animation: javascript 2s ease;
   -webkit-animation: javascript 2s ease;
 }
 .mongodb-mongoose {
-  width: 60%;
+  width: 80%;
   -moz-animation: mongodb-mongoose 2s ease;
   -webkit-animation: mongodb-mongoose 2s ease;
 }
-.express {
-  width: 70%;
-  -moz-animation: express 2s ease;
-  -webkit-animation: express 2s ease;
-}
-.reactjs {
-  width: 80%;
-  -moz-animation: reactjs 2s ease;
-  -webkit-animation: reactjs 2s ease;
-}
-.nodejs {
-  width: 70%;
-  -moz-animation: nodejs 2s ease;
-  -webkit-animation: nodejs 2s ease;
-}
-.github-lab {
-  width: 80%;
-  -moz-animation: github-lab 2s ease;
-  -webkit-animation: github-lab 2s ease;
-}
 .mysql-sql {
   width: 70%;
-  -moz-animation: github-lab 2s ease;
-  -webkit-animation: github-lab 2s ease;
+  -moz-animation: ysql-sql 2s ease;
+  -webkit-animation: ysql-sql 2s ease;
+}
+.react-native {
+  width: 80%;
+  -moz-animation: react-native 2s ease;
+  -webkit-animation: react-native 2s ease;
+}
+.Python {
+  width: 70%;
+  -moz-animation: Python 2s ease;
+  -webkit-animation: Python 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -567,8 +567,8 @@ ul#nav li.current a {
 .portfolio-item .item-wrap .link-icon {
   display: block;
   color: #fff;
-  height: 30px;
-  width: 30px;
+  height: 100%;
+  width: 100%;
   font-size: 18px;
   line-height: 30px;
   text-align: center;

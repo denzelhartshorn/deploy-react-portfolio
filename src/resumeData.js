@@ -97,23 +97,29 @@ let resumeData = {
       name: "Meal Planner",
       description: "mobileapp",
       imgurl:
-        "https://camo.githubusercontent.com/9bbc9c35028ec68d8418b08ead09d6943a6bd5dc/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f69696f4b426d2e706e67"
+        "https://camo.githubusercontent.com/9bbc9c35028ec68d8418b08ead09d6943a6bd5dc/68747470733a2f2f692e6c656e7364756d702e636f6d2f692f69696f4b426d2e706e67",
+      url: "https://github.com/denzelhartshorn/Meal-Planner"
     },
     {
       name: "Online Store- React Native",
       description: "mobileapp",
-      imgurl: "https://github.com/denzelhartshorn/OnlineStore-ReactNative"
+      imgurl:
+        "https://user-images.githubusercontent.com/50594925/88217418-5de5af00-cc13-11ea-8348-c77ce8c156ab.png",
+      url: "https://github.com/denzelhartshorn/OnlineStore-ReactNative"
     },
     {
-      name: "Clicky Game",
+      name: "Guess Game- React Native",
       description: "mobileapp",
-      imgurl: "images/bba-screenshot.png",
-      url: "https://reactmemorygame-denzel.herokuapp.com"
+      imgurl:
+        "https://user-images.githubusercontent.com/50594925/89113029-521e9780-d420-11ea-99ef-bc548cb80013.PNG",
+      url: "https://github.com/denzelhartshorn/ReactNative-GuessGame"
     },
     {
-      name: "Cryptocurrency tracking & analyzing app 'cryptoBob'",
+      name: "Recipe App- React Native",
       description: "mobileapp",
-      imgurl: "https://github.com/denzelhartshorn/CryptoBob"
+      imgurl:
+        "https://user-images.githubusercontent.com/50594925/89113060-ac1f5d00-d420-11ea-9a69-34312f8556ed.PNG",
+      url: "https://github.com/denzelhartshorn/recipeApp-react-native"
     }
   ]
 };
